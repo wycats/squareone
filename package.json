@@ -1,0 +1,21 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "broccoli-babel-transpiler": "^5.4.5",
+    "broccoli-funnel": "^0.2.8",
+    "broccoli-merge-trees": "^0.2.3",
+    "broccoli-sourcemap-concat": "^2.0.1",
+    "broccoli-typescript-compiler": "^0.0.6",
+    "ember-cli": "^1.13.8",
+    "qunitjs": "^1.19.0",
+    "typescript": "^1.7.0-dev.20150924"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yehuda Katz <wycats@gmail.com>",
+  "license": "Apache2"
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "moduleResolution": "node"
+    },
+    "exclude": [ "node_modules", "public", "dist", "tmp" ]
+}
